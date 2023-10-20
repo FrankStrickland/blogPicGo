@@ -1,2 +1,2 @@
 # blog_PicGo
-a repo about blog's pictures
+a repo with blog's pictures
